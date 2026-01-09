@@ -1,6 +1,10 @@
-## Hi there 👋
+
 # Hi, I'm Aishwarya 👋  
 ### Junior Data Analyst | Power BI | SQL | Python
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="500"/>
+</p>
+
 
 Welcome to my GitHub profile!  
 I am a **Junior Data Analyst** with a strong interest in transforming raw data into meaningful insights that support data-driven decision-making. I enjoy working with structured data, building dashboards, and identifying trends using analytical tools.
