@@ -2,7 +2,7 @@
 # Hi, I'm Aishwarya 👋  
 ### Junior Data Analyst | Power BI | SQL | Python
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZlY2JrNmR1d2h4ZGNwZHF0eDlhc3I3cDR5YWR6dWZ1N3E4aWZsbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
 </p>
 
 
