@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Aishwarya.P
 
 ### 📊 Junior Data Analyst | SQL • Power BI • Python
 
@@ -8,8 +8,8 @@
 
 *Turning raw data into actionable insights*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwaryapandian1811)
+
 
 ---
 
@@ -40,7 +40,6 @@ I'm a passionate **Junior Data Analyst** with hands-on experience in transformin
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnhxY2N6OGsxdDl4OHpqZ2I4a3NqNGNpNGk1OGJoZnE2NXF5cDN5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KzJkzjggfGN5Py6nkT/giphy.gif" width="200"/>
 
@@ -60,44 +59,6 @@ I'm a passionate **Junior Data Analyst** with hands-on experience in transformin
 
 ---
 
-### 👥 Customer Data Analysis (SQL & Excel)
-> Extracted insights on customer behavior using SQL queries and Excel analysis.
-
-```sql
-SELECT customer_segment, COUNT(*) as total_customers,
-       AVG(purchase_value) as avg_purchase
-FROM customers
-GROUP BY customer_segment
-ORDER BY avg_purchase DESC;
-```
-
----
-
-### 🧹 Data Cleaning with Python
-> Cleaned and transformed raw datasets using Pandas for accurate analysis.
-
-```python
-import pandas as pd
-
-# Data cleaning pipeline
-df = pd.read_csv('raw_data.csv')
-df = df.dropna().drop_duplicates()
-df['date'] = pd.to_datetime(df['date'])
-```
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="48%"/>
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -106,7 +67,7 @@ df['date'] = pd.to_datetime(df['date'])
 
 **I'm always open to interesting conversations and collaboration opportunities!**
 
-📧 Email: your.email@example.com
+📧 Email: aishwaryapandian2@gmail.com
 
 </div>
 
@@ -119,11 +80,6 @@ df['date'] = pd.to_datetime(df['date'])
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
 
 </div>
-
-<!--
-**AishwaryaPandian1811/AishwaryaPandian1811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
