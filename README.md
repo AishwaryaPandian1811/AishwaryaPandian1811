@@ -47,17 +47,6 @@ I'm a passionate **Junior Data Analyst** with hands-on experience in transformin
 
 ---
 
-## 📂 Featured Projects
-
-### 📊 Sales Performance Dashboard (Power BI)
-> Analyzed sales trends, revenue growth, and region-wise performance using interactive visuals.
-
-```
-✅ Interactive visualizations    ✅ KPI tracking
-✅ Regional analysis             ✅ Trend identification
-```
-
----
 
 ## 🤝 Let's Connect!
 
@@ -80,13 +69,3 @@ I'm a passionate **Junior Data Analyst** with hands-on experience in transformin
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
 
 </div>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
